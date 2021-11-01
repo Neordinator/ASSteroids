@@ -1,0 +1,56 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="TurbineFire.png" transparentColor="0">
+ <animation title="Spawn" delay="30">
+  <cut w="80" x="347" y="44" h="246" row="1" col="1"/>
+  <cut w="89" x="602" y="44" h="246" row="1" col="1"/>
+  <cut w="98" x="851" y="44" h="246" row="1" col="1"/>
+  <cut w="106" x="1103" y="44" h="246" row="1" col="1"/>
+  <cut w="109" x="1354" y="44" h="246" row="1" col="1"/>
+  <cut w="112" x="1611" y="44" h="246" row="1" col="1"/>
+  <cut w="116" x="1863" y="46" h="246" row="1" col="1"/>
+ </animation>
+ <animation title="Idle" delay="20">
+  <cut w="120" x="72" y="337" h="252" row="1" col="1"/>
+  <cut w="122" x="325" y="340" h="252" row="1" col="1"/>
+  <cut w="125" x="579" y="342" h="252" row="1" col="1"/>
+  <cut w="126" x="835" y="339" h="252" row="1" col="1"/>
+  <cut w="129" x="1091" y="338" h="252" row="1" col="1"/>
+  <cut w="136" x="1343" y="339" h="252" row="1" col="1"/>
+  <cut w="138" x="1598" y="340" h="252" row="1" col="1"/>
+  <cut w="135" x="1853" y="340" h="252" row="1" col="1"/>
+  <cut w="144" x="58" y="607" h="285" row="1" col="1"/>
+  <cut w="151" x="310" y="607" h="285" row="1" col="1"/>
+  <cut w="155" x="565" y="607" h="285" row="1" col="1"/>
+  <cut w="153" x="826" y="607" h="285" row="1" col="1"/>
+  <cut w="158" x="1077" y="607" h="285" row="1" col="1"/>
+  <cut w="163" x="1328" y="607" h="285" row="1" col="1"/>
+  <cut w="167" x="1578" y="607" h="285" row="1" col="1"/>
+  <cut w="161" x="1836" y="607" h="285" row="1" col="1"/>
+  <cut w="143" x="58" y="897" h="293" row="1" col="1"/>
+  <cut w="156" x="304" y="899" h="293" row="1" col="1"/>
+  <cut w="154" x="558" y="899" h="293" row="1" col="1"/>
+  <cut w="149" x="824" y="899" h="293" row="1" col="1"/>
+  <cut w="148" x="1070" y="900" h="293" row="1" col="1"/>
+  <cut w="127" x="1349" y="901" h="293" row="1" col="1"/>
+  <cut w="125" x="1603" y="901" h="293" row="1" col="1"/>
+  <cut w="125" x="1860" y="904" h="293" row="1" col="1"/>
+  <cut w="122" x="70" y="1208" h="280" row="1" col="1"/>
+  <cut w="141" x="314" y="1208" h="280" row="1" col="1"/>
+  <cut w="146" x="571" y="1208" h="280" row="1" col="1"/>
+  <cut w="141" x="824" y="1209" h="280" row="1" col="1"/>
+  <cut w="155" x="1075" y="1208" h="280" row="1" col="1"/>
+  <cut w="154" x="1330" y="1208" h="280" row="1" col="1"/>
+  <cut w="157" x="1586" y="1208" h="280" row="1" col="1"/>
+  <cut w="132" x="1854" y="1208" h="280" row="1" col="1"/>
+ </animation>
+ <animation title="Destroy" delay="30">
+  <cut w="170" x="40" y="1512" h="271" row="1" col="1"/>
+  <cut w="170" x="295" y="1512" h="271" row="1" col="1"/>
+  <cut w="170" x="548" y="1512" h="271" row="1" col="1"/>
+  <cut w="170" x="805" y="1512" h="271" row="1" col="1"/>
+  <cut w="170" x="1066" y="1512" h="271" row="1" col="1"/>
+  <cut w="160" x="1327" y="1513" h="271" row="1" col="1"/>
+  <cut w="160" x="1580" y="1512" h="271" row="1" col="1"/>
+  <cut w="155" x="1841" y="1512" h="271" row="1" col="1"/>
+ </animation>
+</sprites>

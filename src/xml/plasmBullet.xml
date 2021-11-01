@@ -1,0 +1,8 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="PlasmBullet.png" transparentColor="0">
+ <animation title="Destroy" delay="50">
+  <cut w="150" x="15" y="641" h="146" row="1" col="1"/>
+  <cut w="142" x="199" y="648" h="134" row="1" col="1"/>
+  <cut w="128" x="386" y="654" h="118" row="1" col="1"/>
+ </animation>
+</sprites>

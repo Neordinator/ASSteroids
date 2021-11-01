@@ -1,0 +1,45 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="bigASSteroid.png" transparentColor="0">
+ <animation title="Idle" delay="150">
+  <cut w="91" x="15" y="23" h="85" row="1" col="1"/>
+  <cut w="95" x="141" y="19" h="90" row="1" col="1"/>
+  <cut w="97" x="268" y="15" h="96" row="1" col="1"/>
+  <cut w="98" x="396" y="11" h="103" row="1" col="1"/>
+  <cut w="97" x="525" y="9" h="105" row="1" col="1"/>
+  <cut w="98" x="654" y="8" h="107" row="1" col="1"/>
+  <cut w="97" x="783" y="8" h="106" row="1" col="1"/>
+  <cut w="94" x="914" y="10" h="105" row="1" col="1"/>
+  <cut w="91" x="20" y="143" h="103" row="1" col="1"/>
+  <cut w="92" x="147" y="146" h="100" row="1" col="1"/>
+  <cut w="93" x="274" y="149" h="96" row="1" col="1"/>
+  <cut w="92" x="402" y="147" h="96" row="1" col="1"/>
+  <cut w="91" x="530" y="146" h="94" row="1" col="1"/>
+  <cut w="89" x="658" y="145" h="91" row="1" col="1"/>
+  <cut w="88" x="786" y="146" h="86" row="1" col="1"/>
+  <cut w="89" x="914" y="146" h="86" row="1" col="1"/>
+  <cut w="92" x="16" y="275" h="88" row="1" col="1"/>
+  <cut w="96" x="142" y="274" h="91" row="1" col="1"/>
+  <cut w="98" x="269" y="271" h="95" row="1" col="1"/>
+  <cut w="99" x="397" y="269" h="99" row="1" col="1"/>
+  <cut w="98" x="526" y="269" h="99" row="1" col="1"/>
+  <cut w="97" x="655" y="270" h="97" row="1" col="1"/>
+  <cut w="93" x="786" y="272" h="96" row="1" col="1"/>
+  <cut w="90" x="916" y="275" h="91" row="1" col="1"/>
+  <cut w="89" x="22" y="405" h="88" row="1" col="1"/>
+  <cut w="92" x="148" y="403" h="91" row="1" col="1"/>
+  <cut w="95" x="274" y="402" h="92" row="1" col="1"/>
+  <cut w="97" x="400" y="402" h="91" row="1" col="1"/>
+  <cut w="97" x="527" y="402" h="89" row="1" col="1"/>
+  <cut w="94" x="655" y="403" h="87" row="1" col="1"/>
+  <cut w="90" x="784" y="406" h="84" row="1" col="1"/>
+  <cut w="91" x="911" y="407" h="85" row="1" col="1"/>
+  <cut w="84" x="19" y="529" h="93" row="1" col="1"/>
+  <cut w="85" x="147" y="529" h="95" row="1" col="1"/>
+  <cut w="87" x="275" y="526" h="97" row="1" col="1"/>
+  <cut w="89" x="403" y="524" h="101" row="1" col="1"/>
+  <cut w="89" x="531" y="522" h="105" row="1" col="1"/>
+  <cut w="89" x="660" y="520" h="109" row="1" col="1"/>
+  <cut w="90" x="789" y="518" h="110" row="1" col="1"/>
+  <cut w="91" x="918" y="518" h="109" row="1" col="1"/>
+ </animation>
+</sprites>

@@ -1,0 +1,21 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="smallASSteroid.png" transparentColor="0">
+ <animation title="Idle" delay="150">
+  <cut w="41" x="12" y="6" h="49" row="1" col="1"/>
+  <cut w="41" x="75" y="7" h="49" row="1" col="1"/>
+  <cut w="39" x="140" y="10" h="45" row="1" col="1"/>
+  <cut w="41" x="204" y="11" h="41" row="1" col="1"/>
+  <cut w="41" x="268" y="12" h="38" row="1" col="1"/>
+  <cut w="41" x="333" y="12" h="38" row="1" col="1"/>
+  <cut w="43" x="397" y="12" h="38" row="1" col="1"/>
+  <cut w="46" x="459" y="11" h="39" row="1" col="1"/>
+  <cut w="49" x="520" y="10" h="41" row="1" col="1"/>
+  <cut w="49" x="583" y="11" h="41" row="1" col="1"/>
+  <cut w="45" x="648" y="12" h="39" row="1" col="1"/>
+  <cut w="42" x="714" y="10" h="41" row="1" col="1"/>
+  <cut w="38" x="781" y="10" h="41" row="1" col="1"/>
+  <cut w="38" x="845" y="9" h="41" row="1" col="1"/>
+  <cut w="38" x="909" y="7" h="43" row="1" col="1"/>
+  <cut w="39" x="973" y="6" h="47" row="1" col="1"/>
+ </animation>
+</sprites>
